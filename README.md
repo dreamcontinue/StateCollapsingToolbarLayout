@@ -1,3 +1,3 @@
 ##StateCollapsingToolbarLayout
 为CollapsingToolbarLayout添加状态的监听。需要CollapsingToolbarLayout的父布局为AppBarLayout  
-很简单看代码就能知道原理了。
+很简单看代码就能知道原理了。[看这里](app/src/main/java/statecollapsingtoolbarlayout)
