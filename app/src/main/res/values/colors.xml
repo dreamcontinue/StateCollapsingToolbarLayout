@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>    <color name="md_deep_purple_50">#ede7f6</color>
+    <color name="md_deep_purple_100">#d1c4e9</color>
+    <color name="md_deep_purple_200">#b39ddb</color>
+    <color name="md_deep_purple_300">#9575cd</color>
+    <color name="md_deep_purple_400">#7e57c2</color>
+    <color name="md_deep_purple_500">#673ab7</color>
+    <color name="md_deep_purple_600">#5e35b1</color>
+    <color name="md_deep_purple_700">#512da8</color>
+    <color name="md_deep_purple_800">#4527a0</color>
+    <color name="md_deep_purple_900">#311b92</color>
+    <color name="md_deep_purple_A100">#b388ff</color>
+    <color name="md_deep_purple_A200">#7c4dff</color>
+    <color name="md_deep_purple_A400">#651fff</color>
+    <color name="md_deep_purple_A700">#6200ea</color>
+</resources>
